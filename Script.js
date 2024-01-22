@@ -1,3 +1,6 @@
+
+
+
 var inp = prompt ("Enter The Number")
 
 document.write(`${inp} x 1 =`, inp*1 + "<br>")
